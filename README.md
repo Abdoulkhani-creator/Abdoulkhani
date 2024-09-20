@@ -1,6 +1,6 @@
 # 👨‍💻 Abdoulkhani
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub+Profile) <!-- Replace with your own banner -->
+![Profile Banner](https://img.freepik.com/free-vector/digital-technology-background-with-geometric-shapes_1017-19366.jpg?size=626&ext=jpg)
 
 ## 💻 Computer Science Graduate | University of Balbala, Djibouti
 
@@ -59,7 +59,7 @@ Hi there! I'm Abdoulkhani, a passionate Computer Science graduate from the Unive
 
 - **Email**: [abdoulkhaniabdousalamdjama@gmail.com](mailto:abdoulkhaniabdousalamdjama@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/abdoulkhani](https://linkedin.com/in/abdoulkhani)  
-- **GitHub**: [github.com/Abdoulkhani-creator](https://github.com/Abdoulkhani-creator)
+- **GitHub**: [github.com/Abdoulkhani-creator](https://github.com/Abdoulkhani-creator/Abdoulkhani)
 
 ---
 
