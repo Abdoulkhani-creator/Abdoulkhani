@@ -1,6 +1,6 @@
 # 👨‍💻 Abdoulkhani
 
-![Profile Banner](https://img.freepik.com/free-vector/digital-technology-background-with-geometric-shapes_1017-19366.jpg?size=626&ext=jpg)
+![Profile Banner](https://www.canva.com/design/DAGRj3tAfNI/eJbogejJwsAMLgGvH-YzCw/edit?utm_content=DAGRj3tAfNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 💻 Computer Science Graduate | University of Balbala, Djibouti
 
