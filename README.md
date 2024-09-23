@@ -60,7 +60,7 @@ Hi there! I'm Abdoulkhani, a passionate Computer Science graduate from the Unive
 ### 📫 **Contact Me**
 
 - **Email**: [abdoulkhaniabdousalamdjama@gmail.com](mailto:abdoulkhaniabdousalamdjama@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/abdoulkhani](https://linkedin.com/in/abdoulkhani)  
+- **LinkedIn**: [linkedin.com/in/abdoulkhani](https://linkedin.com/in/abdoulkhaniabdousalamdjama)  
 - **GitHub**: [github.com/Abdoulkhani-creator](https://github.com/Abdoulkhani-creator/Abdoulkhani)
 
 ---
