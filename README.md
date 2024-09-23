@@ -1,6 +1,8 @@
 # 👨‍💻 Abdoulkhani
 
-![Profile Banner](https://www.canva.com/design/DAGRj3tAfNI/eJbogejJwsAMLgGvH-YzCw/edit?utm_content=DAGRj3tAfNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👋 Hello, I am Abdoulkhani Abdousalam Djama
+
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Bienvenue+sur+mon+profil+GitHub)
 
 ## 💻 Computer Science Graduate | University of Balbala, Djibouti
 
